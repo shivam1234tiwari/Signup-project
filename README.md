@@ -1,16 +1,30 @@
-# React + Vite
+Signup Form 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Signup Form built using React + Vite + Bootstrap.
+This project is deployed on Vercel for fast and seamless hosting.
 
-Currently, two official plugins are available:
+📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project demonstrates:
 
-## React Compiler
+React Functional Components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Bootstrap 5 Styling
 
-## Expanding the ESLint configuration
+Form UI Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite Build Tool
+
+Vercel Deployment
+
+It is a beginner-friendly frontend authentication UI project.
+
+🛠️ Tech Stack
+
+⚛️ React JS
+
+⚡ Vite
+
+🎨 Bootstrap 5
+HOW TO RUN
+npm run dev
