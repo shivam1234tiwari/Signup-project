@@ -1,6 +1,9 @@
 import React from "react";
 
 const Signup = () => {
+  const SubmitClick=()=>{
+    alert("Successfully Signup");
+  }
   return (
     <div className="container">
       <div className="form-container">
@@ -40,7 +43,7 @@ const Signup = () => {
             />
           </div>
         </form>
-        <button type="submit" className="btn-submit">
+        <button type="submit"onClick={SubmitClick} className="btn-submit">
   Signup
 </button>
 
